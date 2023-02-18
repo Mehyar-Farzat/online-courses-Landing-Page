@@ -1,0 +1,49 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.banner-img{
+    border-radius: 50%;
+    width: 450px;
+    height: 450px;
+    object-fit: cover;
+}
+
+
+.banner-title{
+
+font-size: 65px;
+font-weight: 700;
+}
+
+.paragraph-title{
+
+    font-size: larger;
+}
+
+.feature-card:hover{
+
+    box-shadow: 0 1rem 3rem rgba(var(--bs-body-color-rgb),.175)!important;
+}
+
+.image-size{
+
+    width: 304px;
+    height: 207px;
+}
+
+.card-heading{
+
+    text-align: center;
+    font-size: 40px;
+    color:#0d6efd;
+}
+
+.card-body{
+
+    width: 304px;
+    height: 190px;
+}
+
